@@ -11,3 +11,16 @@ Programar é parte da aplicação da engenharia de software, faz parte da sua co
 # O que são requisitos? 
 
 
+
+
+
+
+
+# O que mais pode deteriorar o código de um software ao longo do tempo?
+- Uma arquitetura mal projetada.
+
+# Como posso organizar a arquitetura de um software?
+- Usando diagrama de classes UML
+
+
+
